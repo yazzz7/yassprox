@@ -13,6 +13,6 @@ if [ -f "proxy" ]; then
 fi
 wget -q https://github.com/yazzz7/yassprox/raw/main/proxy
 sleep 1
-echo -e "${GREEN}AJProxy is now Installed.${ENDCOLOR}"
+echo -e "${GREEN}Ilyas Proxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
 chmod +x proxy
