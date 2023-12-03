@@ -11,7 +11,7 @@ if [ -f "ilyas" ]; then
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/yazzz7/yassprox/raw/main/proxy
+wget -q https://github.com/yazzz7/yassprox/raw/main/ilyas
 sleep 1
 echo -e "${GREEN}Ilyas Proxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./ilyas${ENDCOLOR}"
